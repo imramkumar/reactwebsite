@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.a07e746a.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.9a968e85.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.9a968e85.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.e41ab41c.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.e41ab41c.js.map",
+    "static/js/2.81ebdafa.chunk.js": "/reactwebsite/static/js/2.81ebdafa.chunk.js",
+    "static/js/2.81ebdafa.chunk.js.map": "/reactwebsite/static/js/2.81ebdafa.chunk.js.map",
+    "static/js/3.8748c2a0.chunk.js": "/reactwebsite/static/js/3.8748c2a0.chunk.js",
+    "static/js/3.8748c2a0.chunk.js.map": "/reactwebsite/static/js/3.8748c2a0.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "static/css/main.a07e746a.chunk.css.map": "/reactwebsite/static/css/main.a07e746a.chunk.css.map",
+    "static/js/2.81ebdafa.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.81ebdafa.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/reactwebsite/static/media/address.a01cb8cc.png",
+    "static/media/award.fbb80944.png": "/reactwebsite/static/media/award.fbb80944.png",
+    "static/media/email.a49e0158.png": "/reactwebsite/static/media/email.a49e0158.png",
+    "static/media/moon.3bea3d39.png": "/reactwebsite/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/reactwebsite/static/media/phone.d90a6d23.png",
+    "static/media/ram.49e83f37.png": "/reactwebsite/static/media/ram.49e83f37.png",
+    "static/media/sun.f794832a.png": "/reactwebsite/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e41ab41c.js",
+    "static/js/2.81ebdafa.chunk.js",
+    "static/css/main.a07e746a.chunk.css",
+    "static/js/main.9a968e85.chunk.js"
+  ]
+}
